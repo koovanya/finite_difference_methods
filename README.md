@@ -7,9 +7,11 @@ Compare the result and its stablity of three finite difference methods (explicit
 
 ## 当横纵网格均为100时
 每个有限差分方法的定价误差和股票价格S的关系图如下
+
 ![image](https://github.com/koovanya/finite_difference_methods/assets/107574034/44132414-e98c-4631-84e9-a6d96c4ef59e)
 
 ## 改变M的值（其他参数固定），比较每种有限差分方法的稳定性
+
 ![image](https://github.com/koovanya/finite_difference_methods/assets/107574034/9712195c-dc4e-435e-81a2-d888b3e3cc27)
 
 
